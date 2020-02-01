@@ -1,0 +1,32 @@
+body {
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  background-color: var(--grey);
+}
+
+.bg-orange {
+  background-color: var(--orange);
+}
+.bg-grey {
+  background-color: var(--grey);
+}
+.text-yellow {
+  color: var(--yellow);
+}
+/* 
+#showcase {
+  min-height: 400px;
+  background: url("/img/showcase.jpg") no-repeat 1px;
+  text-align: center;
+  color: #ffff00;
+}
+
+#showcase p {
+  font-size: 20px;
+}
+
+Media Queries
+@media (max-width: 768px) {
+  #showcase h1 {
+    margin-top: 40px;
+  }
+} */

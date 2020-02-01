@@ -1,0 +1,23 @@
+header {
+  background: #35424a;
+  color: #c0c0c0;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #c0c0c0 3px solid;
+}
+
+header nav {
+  /* float: right; */
+  margin-top: 10px;
+  margin-bottom: 1rem;
+}
+
+header a.active {
+  color: #e8491d;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: rgb(255, 230, 0);
+  font-weight: bold;
+}
