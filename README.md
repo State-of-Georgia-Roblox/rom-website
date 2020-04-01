@@ -4,5 +4,5 @@ This is a new, better version of [state-of-georgia-roblox/waco-website](https://
 
 ## Live Version
 
-Production build from master: https://sog-rom.now.sh/
+Production build from master: https://sog-rom.now.sh/  
 Preview build from test: https://sog-rom-testing.now.sh/
